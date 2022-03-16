@@ -19,10 +19,10 @@ body{
 }
 
 
-/*.scale:hover{
+.scale:hover{
 	transform: scalex(0.9);
 	cursor: pointer;
-	transition: 2s;*/
+	transition: 2s;
 
 }
 
